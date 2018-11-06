@@ -1,3 +1,3 @@
 # CarWash
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Domain model](/images/logo.png)
+Format: ![Alt Text](https://github.com/aKentorp/CarWash/blob/master/Domain%20model%20.jpg)
