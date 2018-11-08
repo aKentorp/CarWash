@@ -1,7 +1,7 @@
 # CarWash
 
 ## Use Case Diagram
-https://github.com/aKentorp/CarWash/blob/master/CarWash%20Use%20Case%20Diagram.pdf
+![UseCaseDiagram](https://github.com/aKentorp/CarWash/blob/master/UseCaseDiagram2.png)
 
 ### Buy Wash Card Use Case and SSD
 Buy WashCard:
