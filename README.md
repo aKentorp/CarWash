@@ -3,7 +3,7 @@
 ## Use Case Diagram
 ![UseCaseDiagram](https://github.com/aKentorp/CarWash/blob/master/UseCaseDiagram2.png)
 
-### Buy Wash Card Use Case and SSD
+### Buy Wash card Use case and SSD
 Buy WashCard:
 
 Primary actor: Customer
@@ -18,6 +18,56 @@ If the system is down or shows an error message, the customer will ask a staff m
 If the system is still unresponsive, the staff member calls maintenance.
 
 ![BuyCardSSD](https://github.com/aKentorp/CarWash/blob/master/buyWashCard%20SSD.jpg)
+
+### Recharge Card Use case and SSD
+
+Primary actor: Customer
+
+Main success scenario:
+Customer requests to deposit money into their account. The system request a wash card. Customer insert wash card. The system asks for an amount. Customer enters an amount to be deposited into their account and deposits money. The system updates account and verifie with a message or reciept.
+
+Alternative flow:
+Customer tries to deposit an amount there is not between 0 -1000. System gives an error message and asks customer for the correct amount of money. Customer selects an option and continues from that step.
+
+[RechargeCardSSD](https://github.com/aKentorp/CarWash/blob/master/Recharge%20SSD.jpg)
+
+### Wash car Use case and SSD
+
+Primary actor: Customer
+
+Main Success scenario: 
+The customer request to wash their car. The System ask the customer for their wash card.The customer insert the wash card. the System ask the customer which car wash they would like, from a list. The customer enters the desired wash. The system charges the account according to the wash price. The system starts and completes the Car Wash. The system shows a message, when the wash has completed. After the wash is completed, the system automatically update the wash statistics.
+
+
+Alternative flow:
+The customer has insufficient funds on their account. the system asks them to recharge their card, choose a different wash, or to cancel the purchase.
+Car wash has an error or shuts down before completion. The system asks the customer to contact staff. Staff reimburses the customer manually and restarts the system.
+
+![WashCarSSD](https://github.com/aKentorp/CarWash/blob/master/Wash%20Car%20SSD.jpg)
+
+### Check balance Use case and SSD
+
+Primary actor: customer
+
+Main success scenario:
+Customer asks system to check their balance.System request wash card. Customer inserts wash card. System checks balance of the card. The system shows the customer their balance on the screen.
+
+Alternative flows: 
+Customer doesn’t have their wash card. Customer asks staff to manually check their account balance.
+
+![CheckBalanceSSD](https://github.com/aKentorp/CarWash/blob/master/CheckBalance%20SSD.jpg)
+
+### Check statistics Use Case
+
+Primary actor: Owner
+
+Main Success scenario: 
+The owner open the statistics file.
+
+
+Alternative flows:
+The file is missing, the owner contact support. 
+If the owner would like additionally statistics. The owner contacts support.
 
 
 ## Domain Model
