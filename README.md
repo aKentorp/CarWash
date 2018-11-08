@@ -29,7 +29,7 @@ Customer requests to deposit money into their account. The system request a wash
 Alternative flow:
 Customer tries to deposit an amount there is not between 0 -1000. System gives an error message and asks customer for the correct amount of money. Customer selects an option and continues from that step.
 
-[RechargeCardSSD](https://github.com/aKentorp/CarWash/blob/master/Recharge%20SSD.jpg)
+![RechargeCardSSD](https://github.com/aKentorp/CarWash/blob/master/Recharge%20SSD.jpg)
 
 ### Wash car Use case and SSD
 
