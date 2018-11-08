@@ -134,5 +134,7 @@ Can’t be installed so far
 Localizability
 huh?
 
+## Risk analysis
 
+![RiskAnalysis](https://github.com/aKentorp/CarWash/blob/master/RiskAnalysis.jpg)
 
