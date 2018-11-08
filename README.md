@@ -3,7 +3,7 @@
 ## Use Case Diagram
 https://github.com/aKentorp/CarWash/blob/master/CarWash%20Use%20Case%20Diagram.pdf
 
-### Buy Wash Card Use Case
+### Buy Wash Card Use Case and SSD
 Buy WashCard:
 
 Primary actor: Customer
@@ -16,6 +16,8 @@ Alternative flow:
 If the customer doesn’t buy a washCard with a value between 200 - 1000, the system decline the customers request to buy a card and returns to the menu.
 If the system is down or shows an error message, the customer will ask a staff member for help. The staff member reboots the system.
 If the system is still unresponsive, the staff member calls maintenance.
+
+(https://github.com/aKentorp/CarWash/blob/master/buyWashCard%20SSD.jpg)
 
 
 ## Domain Model
