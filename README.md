@@ -82,60 +82,59 @@ If the owner would like additionally statistics. The owner contacts support.
 ## Furps+ - Car Wash
 
 ### F - unctionality
-Capability
-Nescessary car wash functionality
-statistics
-Reusability
-could be used by just about any car wash company
-Security
-Very replicable :(
+* Capability
+* Nescessary car wash functionality
+* statistics
+* Reusability
+* could be used by just about any car wash company
+* Security
+* Very replicable :(
 
 ### U - sability
-Human factors
-Very consumer friendly
-Aesthetics
-Bare bones
-Consistency
-Should work every time
-Documentation
-Gives statistical feedback to car wash owner
-Responsiveness
-Shouldn’t have any problems
+* Human factors
+* Very consumer friendly
+* Aesthetics
+* Bare bones
+* Consistency
+* Should work every time
+* Documentation
+* Gives statistical feedback to car wash owner
+* Responsiveness
+* Shouldn’t have any problems
 
 ### R - eliability
-Availability
-low failure frequency
-Failure, extend and time length
-Instantanious recoverability
-Predictability
-Stable
-Accuracy
-low severity of errors
+* Availability
+* low failure frequency
+* Failure, extend and time length
+* Instantanious recoverability
+* Predictability
+* Stable
+* Accuracy
+* low severity of errors
 
 ###  P - erformance
-Speed
-instantanious
-Efficiency
-Highly efficient
-Resource consumption
-low
-Throughput
-high
-Capacity
-high
-Scalability
-Insanely scalable
+* Speed
+* instantanious
+* Efficiency
+* Highly efficient
+* Resource consumption
+* low
+* Throughput
+* high
+* Capacity
+* high
+* Scalability
+* Insanely scalable
 
 
 ###  S - upportability
-Testability
-Shouldn’t require little to no service
-Flexability
-Can be modified with some work
-Installability
-Can’t be installed so far
-Localizability
-huh?
+* Testability
+* Shouldn’t require little to no service
+* Flexability
+* Can be modified with some work
+* Installability
+* Can’t be installed so far
+* Localizability
 
 ## Risk analysis
 
