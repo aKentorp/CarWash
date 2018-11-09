@@ -73,6 +73,9 @@ If the owner would like additionally statistics. The owner contacts support.
 ## Domain Model
 ![Alt Text](https://github.com/aKentorp/CarWash/blob/master/Domain%20model%20.jpg)
 
+## Class diagram
+![ClassDiagram](https://github.com/aKentorp/CarWash/blob/master/CarWash.jpg)
+
 ## Business model Canvas
 ![Canvas](https://github.com/aKentorp/CarWash/blob/master/Canvas.png)
 
